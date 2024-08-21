@@ -1,5 +1,5 @@
-# "ANALYSIS OF ENVIRONMENTAL INDICATOR USING POWER BI" 
 
+# "ANALYSIS OF ENVIRONMENTAL INDICATOR USING POWER BI" 
 
 ### OBJECTIVES 
       
@@ -102,4 +102,22 @@ In conclusion, our comprehensive data dashboard offers a wide array of visualiza
    - The slicer function enables detailed, country-specific analysis.
 
 In summary, this multifaceted dashboard empowers stakeholders, researchers, and decision-makers to gain deeper insights into critical environmental, economic, and resource management metrics. By harnessing the visualizations and interactive tools, it becomes easier to make informed decisions, formulate policies, and address global challenges effectively. The dashboard offers a comprehensive and user-friendly platform for data-driven decision-making and strategic planning.
+
+#### CONCLUSIONS 
+These Power BI visualizations provide valuable insights for decision-makers, researchers, 
+and stakeholders. They offer a user-friendly and data-driven platform to comprehend and act 
+on critical environmental and economic metrics. The slicer and zoom slider functionalities in 
+these visualizations enhance the analytical depth, allowing for the focused examination of 
+specific regions, countries, or timeframes. In the context of environmental indicators, these 
+visualizations can serve as a foundation for informed decision-making, policy formulation, 
+and strategic planning.         
+  
+The data-driven insights extracted from these visualizations are instrumental for addressing 
+global challenges, including methane emissions management and sustainable mineral 
+resource utilization. They offer a comprehensive view of regional and country-level 
+performance, enabling data-driven strategies for environmental and economic management. 
+In summary, our study on environmental indicators analysis using Power BI demonstrates the 
+transformative power of data visualization in understanding complex data and making 
+informed decisions. It is a valuable resource for those seeking to address global 
+environmental and economic challenges effectively and sustainably.
 
